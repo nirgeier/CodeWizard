@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://nirgeier.github.io/CodeWizard/sitemap.xml 
+Sitemap: http://nirgeier.github.io/CodeWizard/sitemap.xml
