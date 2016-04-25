@@ -4,7 +4,7 @@
   <title><![CDATA[CodeWiward]]></title>
   <link href="http://nirgeier.github.io/CodeWizard/atom.xml" rel="self"/>
   <link href="http://nirgeier.github.io/CodeWizard/"/>
-  <updated>2016-04-25T06:34:25+01:00</updated>
+  <updated>2016-04-25T11:23:10+01:00</updated>
   <id>http://nirgeier.github.io/CodeWizard/</id>
   <author>
     <name><![CDATA[Nir Geier]]></name>
@@ -107,19 +107,6 @@ As you can see there <code>reset &amp;&amp; checkout</code> modify the <code>HEA
 
 <p><a href="http://i.stack.imgur.com/NuThL.png"><img src="http://i.stack.imgur.com/NuThL.png" alt="enter image description here" /></a></p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This Is Sample Post]]></title>
-    <link href="http://nirgeier.github.io/CodeWizard/blog/2016/04/25/this-is-sample-post/"/>
-    <updated>2016-04-25T00:36:11+01:00</updated>
-    <id>http://nirgeier.github.io/CodeWizard/blog/2016/04/25/this-is-sample-post</id>
-    <content type="html"><![CDATA[<h2 id="this-is-the-sample-post">This is the sample post</h2>
-
-<!--more-->
-
-<p>This is the posy content</p>
 ]]></content>
   </entry>
   
