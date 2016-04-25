@@ -4,7 +4,7 @@
   <title><![CDATA[CodeWiward]]></title>
   <link href="http://nirgeier.github.io/CodeWizard/atom.xml" rel="self"/>
   <link href="http://nirgeier.github.io/CodeWizard/"/>
-  <updated>2016-04-25T17:18:11+01:00</updated>
+  <updated>2016-04-25T17:34:18+01:00</updated>
   <id>http://nirgeier.github.io/CodeWizard/</id>
   <author>
     <name><![CDATA[Nir Geier]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Git - What Is `HEAD`]]></title>
+    <title type="html"><![CDATA[Git - What is `HEAD`]]></title>
     <link href="http://nirgeier.github.io/CodeWizard/blog/2016/04/25/git-what-is-head/"/>
     <updated>2016-04-25T06:26:56+01:00</updated>
     <id>http://nirgeier.github.io/CodeWizard/blog/2016/04/25/git-what-is-head</id>
