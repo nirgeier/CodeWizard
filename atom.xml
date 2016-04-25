@@ -4,7 +4,7 @@
   <title><![CDATA[CodeWiward]]></title>
   <link href="http://nirgeier.github.io/CodeWizard/atom.xml" rel="self"/>
   <link href="http://nirgeier.github.io/CodeWizard/"/>
-  <updated>2016-04-25T06:34:26+01:00</updated>
+  <updated>2016-04-25T06:34:25+01:00</updated>
   <id>http://nirgeier.github.io/CodeWizard/</id>
   <author>
     <name><![CDATA[Nir Geier]]></name>
@@ -24,7 +24,6 @@
 
 <p>Before we answer let me explain what <code>HEAD</code> is in git.</p>
 
-<h1 id="first-of-all-what-is-head-"><strong><em><code>First of all what is HEAD? </code></em></strong></h1>
 <p><code>HEAD</code> is simply a reference to the current commit (latest) which the current branch is pointing to right now.<br />
 There can only be a single <code>HEAD</code> at any given time. (excluding <code>git worktree</code>)</p>
 
