@@ -1,0 +1,23 @@
+{
+  "name": "CodeWizard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirgeier/CodeWizard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirgeier/CodeWizard/issues"
+  },
+  "homepage": "https://github.com/nirgeier/CodeWizard#readme",
+  "dependencies": {
+    "hexo": "^4.2.0"
+  }
+}
